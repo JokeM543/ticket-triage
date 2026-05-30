@@ -13,6 +13,7 @@ instructor>=1.0.0
 
 # Frontend Dashboard
 streamlit>=1.32.0
+pandas>=2.2.0
 
 # Utilities
 python-dotenv>=1.0.1
