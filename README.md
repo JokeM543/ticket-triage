@@ -1,5 +1,7 @@
 # Ticket Triage
 
+Кратко: MVP-сервис для автоматической классификации, приоритизации и сохранения обращений клиентов с помощью AI.
+
 AI support-ticket triage MVP with:
 
 - FastAPI backend for ticket submission and AI classification
