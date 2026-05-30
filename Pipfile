@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+supabase = "*"
+instructor = "*"
+openai = "*"
+python-dotenv = "*"
+pydantic = {extras = ["email"], version = "*"}
+streamlit = "*"
+pandas = "*"
+requests = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.14"
+python_full_version = "3.14.2"
